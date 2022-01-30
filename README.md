@@ -1,4 +1,4 @@
-### Welcome To My Github Page 👋
+### Welcome to my Github Page 😀
 
 👋 Hi, I’m @jogeshsingh
 - 👀 I’m interested in RTL and FPGA design engineering . I am Learning about Computer architecture and Digital System Design . I like figuring about different architectures 
